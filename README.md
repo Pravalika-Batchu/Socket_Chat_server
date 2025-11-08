@@ -29,9 +29,9 @@ It supports real-time messaging between multiple clients connected to a single s
 
 | Command | Description | Example |
 |----------|--------------|----------|
-| `LOGIN <username>` | Log into the server with a username | `LOGIN Pravalika` |
+| `LOGIN <username>` | Log into the server with a username | `LOGIN user1` |
 | `MSG <message>` | Send a broadcast message to all users | `MSG Hello everyone!` |
-| `DM <username> <message>` | Send a private message to a specific user | `DM Ishaan Hey there!` |
+| `DM <username> <message>` | Send a private message to a specific user | `DM user2 Hey there!` |
 | `WHO` | See the list of connected users | `WHO` |
 | `PING` | Check server responsiveness | `PING` |
 | `LOGOUT` | Disconnect safely from the chat | `LOGOUT` |
