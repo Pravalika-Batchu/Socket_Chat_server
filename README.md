@@ -81,7 +81,7 @@ Now both clients can communicate in real time via the chat server.
 
 ### Demo Video :
 
-![demo_video](demo_socket_server(algokart_assignment).mp4)
+![demo_video](./demo_socket_server(algokart_assignment).mp4)
 
 ### Author
 Pravalika Batchu
