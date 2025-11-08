@@ -79,7 +79,6 @@ java Chatclient localhost 4000
 
 Now both clients can communicate in real time via the chat server.
 
-### Demo Video :
 
 ### 🎥 Demo Video
 
